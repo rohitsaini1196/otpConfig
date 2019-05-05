@@ -1,0 +1,17 @@
+{
+  "name": "email-node",
+  "version": "1.0.0",
+  "main": "email.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemailer": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rohit Saini",
+  "license": "ISC",
+  "description": ""
+}
